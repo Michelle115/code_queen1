@@ -1,0 +1,30 @@
+header{
+    background: rgb(7, 5, 7);
+    width: 100;
+    overflow: hidden;
+}
+header li {
+    list-style: none;
+    display: inline-block;
+    padding: 10px;
+    text-decoration: none;
+
+}
+
+header a{
+    text-decoration: none;
+    color: white;
+}
+
+header li:hover{
+    color: white;
+}
+
+header nav{
+    float: right;
+}
+
+header .logo img{
+    width: 10%;
+    height: 5%;
+}
